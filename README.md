@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devduck111
+- 👋 Hi, I’m DuckDev
 - 👀 I’m interested in Web Developemnt
 - 🌱 I’m currently learning CSS
 - ⚡ Fun fact: I'm a developer duck
