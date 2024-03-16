@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DuckDev
-- 👀 I’m interested in Web Developemnt
+- 👀 I’m amazed by Web Developemnt
 - 🌱 I’m currently learning CSS
 - ⚡ Fun fact: I'm a developer duck
 
